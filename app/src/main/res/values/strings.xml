@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mario Kart 8 Deluxe Fan App</string>
+    <string name="randomize_setup">Randomize Setup</string>
+    <string name="view_statistics">View Statistics</string>
+    <string name="back">Back</string>
+    <string name="reroll_random_setup">Reroll Random Setup</string>
+    <string name="view_randomly_selected_driver_icon">View randomly selected driver icon</string>
+    <string name="view_randomly_selected_kart_icon">View randomly selected kart icon</string>
+    <string name="view_randomly_selected_tire_icon">View randomly selected tire icon</string>
+    <string name="view_randomly_selected_glider_icon">View randomly selected glider icon</string>
+    <string name="driver">Driver</string>
+    <string name="kart">Kart</string>
+    <string name="tires">Tires</string>
+    <string name="glider">Glider</string>
+</resources>

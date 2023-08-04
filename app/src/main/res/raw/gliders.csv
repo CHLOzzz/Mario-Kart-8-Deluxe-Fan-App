@@ -1,0 +1,16 @@
+,Name,Weight,Acceleration,OnRoadTraction,OffRoadTraction,MiniTurbo,GroundSpeed,WaterSpeed,AntiGravitySpeed,AirSpeed,GroundHandling,WaterHandling,AntiGravityHandling,AirHandling,Invincibility
+0,Super Glider,1,1,1,1,1,1,1,0,2,1,0,1,1,1
+1,Cloud Glider,0,2,1,1,2,0,1,1,1,1,0,1,2,0
+2,Wario Wing,2,1,2,0,1,1,0,1,2,1,1,0,1,1
+3,Waddle Wing,1,1,1,1,1,1,1,0,2,1,0,1,1,1
+4,Peach Parasol,1,2,2,0,2,0,0,1,1,1,1,0,2,0
+5,Parachute,0,2,1,1,2,0,1,1,1,1,0,1,2,0
+6,Parafoil,1,2,2,0,2,0,0,1,1,1,1,0,2,0
+7,Flower Glider,0,2,1,1,2,0,1,1,1,1,0,1,2,0
+8,Bowser Kite,1,2,2,0,2,0,0,1,1,1,1,0,2,0
+9,Plane Glider,2,1,2,0,1,1,0,1,2,1,1,0,1,1
+10,MKTV Parafoil,1,2,2,0,2,0,0,1,1,1,1,0,2,0
+11,Gold Glider,2,1,2,0,1,1,0,1,2,1,1,0,1,1
+12,Hylian Kite,1,1,1,1,1,1,1,0,2,1,0,1,1,1
+13,Paper Glider,0,2,1,1,2,0,1,1,1,1,0,1,2,0
+14,Paraglider,2,1,2,0,1,1,0,1,2,1,1,0,1,1

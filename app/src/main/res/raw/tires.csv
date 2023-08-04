@@ -1,0 +1,23 @@
+,Name,Weight,Acceleration,OnRoadTraction,OffRoadTraction,MiniTurbo,GroundSpeed,WaterSpeed,AntiGravitySpeed,AirSpeed,GroundHandling,WaterHandling,AntiGravityHandling,AirHandling,Invincibility
+0,Standard,2,4,2,5,4,2,3,2,3,3,3,3,3,3
+1,Monster,4,2,3,7,3,3,2,2,1,0,1,0,1,5
+2,Roller,0,6,0,4,6,0,3,0,3,4,4,4,4,0
+3,Slim,2,2,4,1,3,3,2,4,2,4,4,3,4,4
+4,Slick,3,1,4,0,2,4,0,4,0,2,0,2,1,4
+5,Metal,4,0,1,2,2,4,3,1,2,2,2,1,0,5
+6,Button,0,5,1,3,5,1,2,2,2,3,3,4,2,2
+5,Off-Road,3,3,3,6,3,3,4,2,1,1,1,2,2,6
+6,Sponge,1,4,2,6,5,1,1,1,4,2,1,2,3,3
+7,Wood,2,2,4,1,3,3,2,4,2,4,4,3,4,4
+8,Cushion,1,4,2,6,5,1,1,1,4,2,1,2,3,5
+9,Blue Standard,2,4,2,5,4,2,3,2,3,3,3,3,3,3
+10,Hot Monster,4,2,3,7,3,3,2,2,1,0,1,0,1,5
+11,Azure Roller,0,6,0,4,6,0,3,0,3,4,4,4,4,0
+12,Crimson Slim,2,2,4,1,3,3,2,4,2,4,4,3,4,4
+13,Cyber Slick,3,1,4,0,2,4,0,4,0,2,0,2,1,4
+14,Retro Off-Road,3,3,3,6,3,3,4,2,1,1,1,2,2,6
+15,Gold Tires,4,0,1,2,2,4,3,1,2,2,2,1,0,4
+16,GLA Tires,2,4,2,5,4,2,3,2,3,3,3,3,3,4
+17,Triforce Tires,3,3,3,6,3,3,4,2,1,1,1,2,2,5
+18,Leaf Tires,0,5,1,3,5,1,2,2,2,3,3,4,2,5
+19,Ancient Tires,4,2,3,7,3,3,2,2,1,0,1,0,1,1

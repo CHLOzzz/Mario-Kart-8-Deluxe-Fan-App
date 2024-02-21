@@ -7,4 +7,4 @@ Upcoming features I'm planning are bulk randomization when playing with friends,
 
 All data & assets sourced from https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics#Statistics_translation_tables and https://wallpapersafari.com/mario-kart-8-wallpapers-iphone/
 
-The app is meant to be intuitive to use so no intstructions should be necessary. :)
+The app is meant to be intuitive to use so no instructions should be necessary. :)

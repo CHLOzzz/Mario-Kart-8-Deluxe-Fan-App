@@ -3,7 +3,7 @@ A fun Android app for Mario Kart 8 Deluxe fans meant to act as convienience for 
 
 Features include a built-in randomizer, and stats table using up-to-date statistics as of August 4, 2023.
 
-Upcoming features I'm planning are bulk randomization when playing with friends, adding sorting features to the stats tables, and generally cleaning up the app for ease of use.
+Upcoming features I'm planning are bulk randomization when playing with friends, adding sorting features to the stats tables, and generally cleaning up the app for ease of use. Since I'm new to programming Android apps, these features may never see the light of day without assistence.
 
 All data & assets sourced from https://www.mariowiki.com/Mario_Kart_8_Deluxe_in-game_statistics#Statistics_translation_tables and https://wallpapersafari.com/mario-kart-8-wallpapers-iphone/
 

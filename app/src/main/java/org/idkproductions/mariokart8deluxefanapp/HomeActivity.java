@@ -1,19 +1,22 @@
 package org.idkproductions.mariokart8deluxefanapp;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.ImageView;
 
+import androidx.appcompat.app.AppCompatActivity;
+
+/**
+ * Home Activity - meant to be the first thing that loads when a user opens the application.
+ */
 public class HomeActivity extends AppCompatActivity {
     /**
      * Function runs whenever HomeActivity is created, either a back button from another activity or
      * on app launch.
      *
-     * @param savedInstanceState ????????????
+     * @param savedInstanceState the saved state of the app before having been interrupted
      */
     @Override
     protected void onCreate(Bundle savedInstanceState) {

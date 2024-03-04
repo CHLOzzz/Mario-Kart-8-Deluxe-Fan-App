@@ -1,0 +1,23 @@
+v1.0
+
+- App created
+
+v1.1
+
+- Added:
+    Drivers:
+    - Diddy Kong
+    - Funky Kong
+    - Peachette
+    - Pauline
+
+v1.2
+
+- Changed ordering in "View Statistics" to follow the order from https://www.mariowiki.com/Mario_kart_8_Deluxe_in-game_statistics
+- Fixed bug where data was in the wrong columns when "All Stats" is enabled in the "View Statistics" screen
+- Added support for Android OS's back button
+- Properly updated the version in the app's manifest (never done from v1.0 to v1.1)
+- Various optimizations
+- Raised minimum Android version from 5.0 "Lollipop" to 7.1.1 "Nougat"
+- Raised compile SDK from 33 (Android 13.0 "Tiramisu") to 34 (unnamed as of this update)
+    - Target SDK is still 33
